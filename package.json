@@ -1,0 +1,16 @@
+{
+  "name": "dvedependencies",
+  "version": "1.0.0",
+  "description": "CypressAutomation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cypress:open": "cypress open"
+  },
+  "author": "Purushothama",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^7.7.0",
+    "mocha": "^9.0.2"
+  }
+}
